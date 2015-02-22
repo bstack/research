@@ -1,0 +1,9 @@
+D:\Temp\research\corkaltnet_func_concepts\CorkAltNetDemo\CorkAltNetDemo\bin\Debug\CorkAltNetDemo.exe.config
+D:\Temp\research\corkaltnet_func_concepts\CorkAltNetDemo\CorkAltNetDemo\bin\Debug\CorkAltNetDemo.XML
+D:\Temp\research\corkaltnet_func_concepts\CorkAltNetDemo\CorkAltNetDemo\bin\Debug\CorkAltNetDemo.exe
+D:\Temp\research\corkaltnet_func_concepts\CorkAltNetDemo\CorkAltNetDemo\bin\Debug\CorkAltNetDemo.pdb
+D:\Temp\research\corkaltnet_func_concepts\CorkAltNetDemo\CorkAltNetDemo\bin\Debug\FSharp.Core.dll
+D:\Temp\research\corkaltnet_func_concepts\CorkAltNetDemo\CorkAltNetDemo\bin\Debug\FSharp.Core.xml
+D:\Temp\research\corkaltnet_func_concepts\CorkAltNetDemo\CorkAltNetDemo\obj\Debug\CorkAltNetDemo.fsprojResolveAssemblyReference.cache
+D:\Temp\research\corkaltnet_func_concepts\CorkAltNetDemo\CorkAltNetDemo\obj\Debug\CorkAltNetDemo.exe
+D:\Temp\research\corkaltnet_func_concepts\CorkAltNetDemo\CorkAltNetDemo\obj\Debug\CorkAltNetDemo.pdb
