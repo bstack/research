@@ -48,9 +48,14 @@
     <Compile Include="Program.fs" />
     <None Include="App.config" />
     <None Include="A_FirstProgram.fsx" />
-    <None Include="C_PartialApplication.fsx" />
+    <None Include="E_PartialApplication.fsx" />
     <None Include="B_FunctionalFirst.fsx" />
-    <None Include="B_Functions.fsx" />
+    <None Include="C_PatternMatching.fsx" />
+    <None Include="D_Functions.fsx" />
+    <None Include="F_TypeProviders.fsx" />
+    <None Include="G_EulerProblem1.fsx" />
+    <None Include="H_EulerProblem2.fsx" />
+    <None Include="I_DigitResolver.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
