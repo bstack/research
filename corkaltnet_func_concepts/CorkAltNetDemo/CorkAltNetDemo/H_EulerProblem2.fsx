@@ -8,7 +8,7 @@ let getRemainder subject divisor =
     subject % divisor
 
 let getRemainderFor1To20 sub:int = 
-    let countSequence = seq {1 .. 20}
+    let countSequence = seq {1 .. 10}
     let remainderMap = Seq.map (fun(element) -> getRemainder sub element) countSequence
     let remainderValue = remainderMap |> Seq.sum
     remainderValue

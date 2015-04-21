@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "KTUGFSharpDemo", "KTUGFSharpDemo\KTUGFSharpDemo.fsproj", "{8EC14BF7-9BC3-4A25-9F06-FAE2E52E6D4C}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Library1", "Library1\Library1.fsproj", "{53DCC2EE-E867-4D2B-B596-3FCEF8EB1759}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DeepDives", "DeepDives\DeepDives.fsproj", "{40142659-19C7-4A8C-ADC8-C46BFFAF42D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8EC14BF7-9BC3-4A25-9F06-FAE2E52E6D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8EC14BF7-9BC3-4A25-9F06-FAE2E52E6D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8EC14BF7-9BC3-4A25-9F06-FAE2E52E6D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8EC14BF7-9BC3-4A25-9F06-FAE2E52E6D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53DCC2EE-E867-4D2B-B596-3FCEF8EB1759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53DCC2EE-E867-4D2B-B596-3FCEF8EB1759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53DCC2EE-E867-4D2B-B596-3FCEF8EB1759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53DCC2EE-E867-4D2B-B596-3FCEF8EB1759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40142659-19C7-4A8C-ADC8-C46BFFAF42D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40142659-19C7-4A8C-ADC8-C46BFFAF42D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40142659-19C7-4A8C-ADC8-C46BFFAF42D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40142659-19C7-4A8C-ADC8-C46BFFAF42D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
