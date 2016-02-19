@@ -1,4 +1,18 @@
-﻿// Declare 'the fish' monad
+// bstack 19/02/2016
+
+// Kleisli category example in f#
+
+// Aim is to create a function safeRootReciprocal that is made up of two other functions safeRoot and safeReciprocal
+// The safeRootReciprocal function is composed via 'the fish' monad where each function is side effect free but is embellished
+// i.e. they return extra data that is aggregated in 'the fish' monad 
+
+// Really good pattern used in the likes of Haskell (via the Writer monad) to deal with the side effects of logging aggregation etc
+
+// Note that to obey the laws of a kleisli category, the function (float option -> float option * bool) in my case, must be monoidal
+// Hence the reason why I have also defined an identity function, that when composed with another function makes no difference to the result
+
+
+// Declare 'the fish' monad
 // (>=>)::(a' -> b * bool) -> (b -> c * bool) -> a -> (c * bool)
 let (>=>) m1 m2 x =
     let (y, result1) = m1 x
