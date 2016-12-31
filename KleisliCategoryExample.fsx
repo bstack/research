@@ -9,6 +9,7 @@
 // Really good pattern used in the likes of Haskell (via the Writer monad) to deal with the side effects of logging aggregation etc
 
 // Note that to obey the laws of a kleisli category, the function (float option -> float option * bool) in my case, must be monoidal
+
 // Hence the reason why I have also defined an identity function, that when composed with another function makes no difference to the result
 
 
