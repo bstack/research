@@ -1,0 +1,8 @@
+d:\temp\ITTraleeDemo\ITTraleeDemo\bin\Debug\netcoreapp2.2\ITTraleeDemo.deps.json
+d:\temp\ITTraleeDemo\ITTraleeDemo\bin\Debug\netcoreapp2.2\ITTraleeDemo.dll
+d:\temp\ITTraleeDemo\ITTraleeDemo\bin\Debug\netcoreapp2.2\ITTraleeDemo.pdb
+d:\temp\ITTraleeDemo\ITTraleeDemo\obj\Debug\netcoreapp2.2\ITTraleeDemo.fsprojAssemblyReference.cache
+d:\temp\ITTraleeDemo\ITTraleeDemo\obj\Debug\netcoreapp2.2\ITTraleeDemo.AssemblyInfoInputs.cache
+d:\temp\ITTraleeDemo\ITTraleeDemo\obj\Debug\netcoreapp2.2\ITTraleeDemo.AssemblyInfo.fs
+d:\temp\ITTraleeDemo\ITTraleeDemo\obj\Debug\netcoreapp2.2\ITTraleeDemo.dll
+d:\temp\ITTraleeDemo\ITTraleeDemo\obj\Debug\netcoreapp2.2\ITTraleeDemo.pdb
